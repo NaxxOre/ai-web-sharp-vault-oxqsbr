@@ -1,0 +1,1 @@
+- Commit 6: small UI output improvement.

@@ -1,0 +1,1 @@
+- Commit 24: small UI output improvement.

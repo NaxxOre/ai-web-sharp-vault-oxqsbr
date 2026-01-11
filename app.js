@@ -1,0 +1,1 @@
+const o=document.getElementById('o');document.getElementById('b').onclick=()=>{const d=new Date();o.textContent=`ISO: ${d.toISOString()}\nLucky: ${Math.floor(Math.random()*999999)}`;};

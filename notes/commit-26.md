@@ -1,0 +1,1 @@
+- Commit 26: small UI output improvement.

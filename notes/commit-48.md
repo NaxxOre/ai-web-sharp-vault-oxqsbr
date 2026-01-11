@@ -1,0 +1,1 @@
+- Commit 48: small UI output improvement.

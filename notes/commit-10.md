@@ -1,0 +1,1 @@
+- Commit 10: small UI output improvement.

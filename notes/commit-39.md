@@ -1,0 +1,1 @@
+- Commit 39: small UI output improvement.
